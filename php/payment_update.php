@@ -48,7 +48,7 @@ if ($paidstatus=="true"){
      <tr><td>Date </td><td>'.date("d/m/Y").'</td></tr>
      <tr><td>Time </td><td>'.date("h:i a").'</td></tr>
      </table><br>
-     <p><center>Press back button to return to MyGrocery</center></p></div></body>';
+     <p><center>Press back button to return to Hope4Cat</center></p></div></body>';
 }
 else{
      echo 'Payment Failed!';
